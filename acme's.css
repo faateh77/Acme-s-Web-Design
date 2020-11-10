@@ -1,0 +1,126 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+body{
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+ }
+ .nav{
+    background-color:black;
+    border-bottom:3px solid tomato;
+    height:85px;
+    width:1350px;
+   
+}
+ul{
+    list-style-type: none;
+    word-spacing: 30px;
+}
+.acme{
+color:tomato;
+float:left;
+font-size: 25px;
+}
+.webdesign{
+    color:white;
+    float:left;
+    
+    font-size: 25px;
+}
+.home{
+float:right;
+color:tomato;
+font-size: 25px;
+}
+.about{
+    float:right;
+    color:white;
+    font-size: 25px;
+
+}
+.services{
+    float:right;
+    color:white;
+    font-size: 25px;
+}
+.image{
+    height:500px;
+    width:1350px;
+    background-image: url("cover.jpeg");
+}
+.image-font-heading{
+    font-size: 60px;
+    color:white;
+    font-style: normal;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+
+   
+}
+.image-font{
+    font-size: 25px;
+    color:white;
+    font-style: normal;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+
+}
+.below-pic{
+    background-color: black;
+    width: 1350px;
+    height:60px;
+   color: white;
+   padding-left: 70px;
+   padding-top: 30px;
+   
+}
+button{
+    color:white;
+    background-color: tomato;
+    border: 1px solid black;
+    /* padding-left: 80px;
+    padding-bottom: 100px; */
+    height:20px;
+    widows: 100px;
+}
+ .discription{
+  width:80%;
+  margin:auto;
+  overflow:hidden;
+} 
+#xyz{
+    margin-top:20px;
+  }
+  
+  #xyz .box{
+    float:left;
+    text-align: center;
+    width:30%;
+    padding:10px;
+  }
+  
+  #xyz .box img{
+    width:90px;
+  }
+.footer{
+    background-color: tomato;
+    width: 1350px;
+    height:80px;
+   color: white;
+   text-align: center;
+}
+.sub{
+   padding-right: 150px;
+   padding-top: -40px;
+   float: right;
+
+
+
+}
+h3{
+    margin:auto;
+    overflow:hidden;
+   
+}
